@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg7\TehProg7\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg7\TehProg7\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg7\TehProg7\obj\x86\Debug\TehProg7.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg7\TehProg7\bin\Debug\TehProg7.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg7\TehProg7\bin\Debug\TehProg7.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg7\TehProg7\obj\x86\Debug\TehProg7.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg7\TehProg7\obj\x86\Debug\TehProg7.pdb
